@@ -1,0 +1,12 @@
+.full-height-navbar {
+  height: 100vh;
+  padding-top: 20vh;
+}
+
+.navbar-btn {
+  font-size: 2rem;
+}
+
+.nav {
+  float: left;
+}
